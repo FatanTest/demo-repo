@@ -9,3 +9,4 @@ Like the name i add subheader
 ## Local Deployment
 
 1. Open your index.html in your browser
+2. Have Fun
